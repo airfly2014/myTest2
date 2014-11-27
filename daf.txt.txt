@@ -1,2 +1,7 @@
 ﻿我是普通开发人员
+<<<<<<< HEAD
 woshiputongkaifazhe  
+=======
+woshiputongkaifazhe
+冲突测试
+>>>>>>> 2cdecbe17417c30c5aaf311402b1bb27d7bcc455
